@@ -1,6 +1,6 @@
-# Use this code to apply QAQC test to WBGT data produced for Treasury
+# Use this code to apply QAQC test to WBGT data
 # Author - Cassandra Rogers
-# NOTE - these tests are specific to Treasury's aims. If WBGT are to be used for other purposes, other QAQC tests may be necessary
+# NOTE - these tests were created to test WBGT to be used to calculate productivity loss over spatially averaged Australian regions. If WBGT are to be used for other purposes, other QAQC tests may be necessary
 
 
 ######################################################################################################################################
